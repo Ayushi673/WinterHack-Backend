@@ -88,7 +88,7 @@ The entire website is written in MERN Stack and with MongoDB features like Atlas
 - **MongoDB Atlas Cluster**
 - **Create a Search Index** 
 
-```
+
 <br/>
 
 
