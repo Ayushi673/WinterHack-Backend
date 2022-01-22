@@ -84,19 +84,10 @@ The entire website is written in MERN Stack and with MongoDB features like Atlas
 
 ### 💬 Prerequisites:
 
-- **Node.js** :  v16.13.1
-- **npm** :  v8.1.2
-- **React**: This project was bootstrapped with Create React App 
+- **MongoDB Account**
+- **MongoDB Atlas Cluster**
+- **Create a Search Index** 
 
-
-
-### 💬 Getting Started:
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. To run the app locally, install its dependencies and then call the run script:
-```
-npm install
-```
-```
-npm run start
 ```
 <br/>
 
